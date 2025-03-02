@@ -1,0 +1,24 @@
+# PlatformIO specific files
+.pio/
+.vscode/
+*.elf
+*.bin
+*.hex
+*.map
+
+# Arduino specific files
+*.ino.*
+*.cpp.*
+*.h.*
+
+# Build files
+build/
+
+# Libraries
+lib/
+
+# Other
+.DS_Store
+
+# secrets
+secrets.h
